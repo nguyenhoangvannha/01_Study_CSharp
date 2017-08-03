@@ -1,0 +1,17 @@
+string[] name = new string[] {"nha","la","ta};
+name.Length
+
+string[3,4] hello = new string[3, 4];
+hello.getLength(0) : tra ve so hang
+hello.getLength(1) : tra ve so cot
+
+//Mang ba chieu
+int[2,5,4] = new int[2,5,4];
+
+//Mang  jedad
+int[][] a = new   int [4][];
+a.length tra ve so hang
+a[0].length: tra ve so phan tu cua mang con thu 0
+
+//lop array
+Array.sort ....

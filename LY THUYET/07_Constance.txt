@@ -1,0 +1,3 @@
+const float PI = 3.14f;
+enum cung la mot hang
+(co the dung: readonly int a = 9; de khong thay doi bien a)

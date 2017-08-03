@@ -1,0 +1,5 @@
+Cac kieu ho tro:
+Kieu nguyen
+Kieu chuoi, ky tu
+Kieu Enum
+Kieu boolean

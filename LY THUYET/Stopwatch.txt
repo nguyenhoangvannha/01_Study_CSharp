@@ -1,0 +1,5 @@
+Stopwatch dongho = new Stopwatch();
+dongho.start()
+...
+dongho.stop()
+Console.Write(dongho.Elapsed.second);

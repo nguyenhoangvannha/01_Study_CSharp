@@ -1,0 +1,7 @@
+/*
+ * Quy tac dat ten
+ * - cach 1: bienThuNhat: cho private va protected
+ * - cach 2: BienThuNhat: con lai
+ * - luu y: ngan gon de hieu, the hien muc dich cua bien, Csharp phan biet hoa thuong
+ * 
+ */

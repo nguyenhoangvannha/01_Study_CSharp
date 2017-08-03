@@ -1,0 +1,14 @@
+-Gom nhom cac hang so
+-Kieu tham tri
+-Khong duoc phep ke thua
+enum myEnum
+{
+	RED, // tuong duong voi 0
+	BLUE, // 1
+	YELLOW = 123,
+	GRAY,// luc nay se la 124 = YELLOW + 1
+	
+}
+-Cach dung:
+	int choose = (int) myEnum.RED;
+	myEnum hello = (myEnum)2; //hello = BLUE;

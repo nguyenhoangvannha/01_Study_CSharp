@@ -1,0 +1,28 @@
+ref: truyen tham bien, phai khoi tao gia tri tham bien truoc khi truyen vao
+static void Main(string[] args)
+        {
+            int value = 100;
+            Console.Write(value + "\n");
+            increaseValue(ref value);
+            Console.WriteLine(value);
+            Console.ReadKey(true);
+        }
+        private static void increaseValue(ref int a)
+        {
+            a++;
+        }
+out: truyen tham bien, phai khoi tao gia tri tham bien trong ham con ma khong 
+can khoi tao trong ham goi
+static void Main(string[] args)
+        {
+            int value;
+            
+            increaseValue(out value);
+            Console.WriteLine(value);
+            Console.ReadKey(true);
+        }
+        private static void increaseValue(out int a)
+        {
+		a = 100;
+            a++;
+        }

@@ -1,0 +1,13 @@
+//object khong can khoi tao khi khai bao
+//object duoc xac dinh kieu khi chuong trinh bien dich
+// Boxing: chuyen tu du lieu gia tri sang kieu tham chieu
+            int value = 100;
+            Object objValue = value;
+
+            //Unboxing
+            int returl = (int)objValue;
+
+//Tu khoa var: tao bien ma khong can biet kieu du lieu
+            //var khong phai kieu du lieu, dung de duyet mang va truy van linQ
+		//var phai khoi tao khi khai bao
+            var varBool = true;
