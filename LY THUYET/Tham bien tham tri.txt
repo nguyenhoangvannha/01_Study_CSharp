@@ -1,0 +1,2 @@
+Tham bien: mang, chuoi, lop
+Tham tri: int, long, ... struct

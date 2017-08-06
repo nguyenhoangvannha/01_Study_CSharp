@@ -1,0 +1,3 @@
+SinhVien a = new SinhVien();
+SinhVien b = a;
+Thi a va b cung tro den mot vung nho.

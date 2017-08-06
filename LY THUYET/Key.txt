@@ -1,0 +1,8 @@
+
+private void txtOut_KeyDown(object sender, KeyEventArgs e)
+        {
+            textBox1.Text = "";
+            textBox1.Text += "KeyData: " + e.KeyData; //Chu cai
+            textBox1.Text += "\nKeyCode: " + e.KeyCode; //Chu cai
+            textBox1.Text += "\nKeyValue: " + e.KeyValue; //So
+        }

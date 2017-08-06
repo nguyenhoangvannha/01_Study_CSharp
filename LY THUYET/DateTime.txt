@@ -1,0 +1,6 @@
+DateTime date = new DateTime();
+            date.ToString("dd/MM/yyyy");
+            date = DateTime.Parse("13/07/2017");
+
+            date = DateTime.Today;
+            Console.WriteLine(date.ToString());
